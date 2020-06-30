@@ -1,1 +1,1 @@
-console.log("Git is soo cool!")
+console.log("Git is soo neatg!")
