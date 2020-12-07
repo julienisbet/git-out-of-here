@@ -1,0 +1,22 @@
+{
+  "name": "git-out-of-here",
+  "version": "1.0.0",
+  "description": "a little git repo",
+  "main": "gitIsCool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julienisbet/git-out-of-here.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julienisbet/git-out-of-here/issues"
+  },
+  "homepage": "https://github.com/julienisbet/git-out-of-here#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
